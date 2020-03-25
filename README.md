@@ -1,3 +1,6 @@
+## Description
+Test for a gaming social network, using graph.js library with a selector that allows you to switch graphs, rate stars based on your score, and a games library that allows you to add or delete games to your profile. All data is mocked with arrays as it does not have DB connection so you can change any data in the arrays and see the changes reflected. It has been done using Typescript and React
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -5,6 +8,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 
 ### `npm start`
+
+Firts run npm i, to install all external packages such as graph.js.
 
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
