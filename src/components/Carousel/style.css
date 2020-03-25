@@ -1,0 +1,20 @@
+.carousel-control-next{
+    display:none !important;
+    color: black !important;
+}
+.carousel-control-prev{
+    display:none !important;
+    color: black !important;
+}
+
+.cardPrueba{
+border: 0px solid rgba(155, 142, 142, 0);
+-moz-border-radius: 15px;
+border-radius: 15px;
+overflow: hidden;
+}
+.carousel-indicators li {
+    background-color: darkgray;
+    size: 100px;
+  }
+

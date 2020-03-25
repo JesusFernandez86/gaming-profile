@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css?family=PT+Sans&display=swap');
+
+.cardContainer {
+    box-shadow: 0px 0px 5px 1px rgb(123, 61, 209);
+    background-color: white;
+    height: 500px;
+    border-radius: 10px;
+    
+}
+
+.history {
+    font-size: 12px;
+   
+}
+
+.status {
+    color: grey;
+    font-weight: 600;
+}
+
+.gamerPic{
+    height: 250px;
+    width: 185px;
+    position: absolute;
+    
+}
+
+.teamLogo {
+    height: 70px;
+    width: 70px;
+    cursor: pointer !important;
+}
+
+.contactButton {
+    
+    background-color: rgb(123, 61, 209) !important;
+    color: white !important;
+    height: 27px !important;
+    font-size: small !important;
+    width: 90px !important;
+    border: none !important;
+    cursor: pointer !important;
+
+      
+}
+
+.eraseLink {
+    text-decoration: none;
+    color: rgb(123, 61, 209);
+}
+
+.custom-select {
+    background-color:rgb(123, 61, 209) !important;
+    color: white !important;
+    align-content: center !important;
+    font-family: 'PT SANS' !important;
+    text-decoration-color: white;
+    -webkit-text-fill-color: white;
+  }
